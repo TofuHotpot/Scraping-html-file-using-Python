@@ -31,14 +31,14 @@ html_files = [
 ]
 ```
 
-# Run the Script: Execute the script in your terminal or command prompt.
-bash
-Copy code
-python path_to_script.py
-Review the Results: The script will output the results in the terminal, indicating each keyword found and a snippet of the script content where it was discovered.
+## Run the Script: Execute the script in your terminal or command prompt.
+- bash
+- Copy code
+- python path_to_script.py
+- Review the Results: The script will output the results in the terminal, indicating each keyword found and a snippet of the script content where it was discovered.
 
-# Customization
-This script can be easily customized to fit various needs:
-Adjust the keywords list to search for different terms.
-Expand the html_files list to analyze additional HTML files.
-Modify the output formatting or the details provided about found keywords for specific reporting needs.
+## Customization
+- This script can be easily customized to fit various needs:
+- Adjust the keywords list to search for different terms.
+- Expand the html_files list to analyze additional HTML files.
+- Modify the output formatting or the details provided about found keywords for specific reporting needs.
