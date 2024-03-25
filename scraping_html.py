@@ -20,9 +20,7 @@ keywords = ['continue-watching', 'resume-watching', 'continueWatching', 'ResumeW
 
 # List of your HTML files
 html_files = [
-    'C:\\Users\\nicole.chung\\desktop\\hackAIthon\\html_files\\itvx.html', 
-    'C:\\Users\\nicole.chung\\desktop\\hackAIthon\\html_files\\appleTV.html',
-    'C:\\Users\\nicole.chung\\desktop\\hackAIthon\\html_files\\netflix.html',
+    'C:\\Users\\desktop\\hackAIthon\\html_files\\appleTV.html'
 ]
 
 # Search for keywords in each HTML file
